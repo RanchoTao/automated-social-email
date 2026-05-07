@@ -1,0 +1,8 @@
+{
+  "label": "academic_real_human_email",
+  "confidence": 0.89,
+  "reasons": [
+    "Academic topic markers and human correspondence markers detected."
+  ],
+  "should_generate_reply": true
+}
