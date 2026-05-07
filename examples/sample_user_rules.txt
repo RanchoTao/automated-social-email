@@ -1,0 +1,7 @@
+Salutation: Dear Professor [Last Name],
+Politeness: professional but warm
+Be concise: yes
+Proactively suggest meeting: yes
+Mention attachment: yes
+Language: English
+Signature: Sincerely,\nAlex Chen

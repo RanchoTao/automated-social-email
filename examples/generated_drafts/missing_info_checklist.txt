@@ -1,0 +1,4 @@
+- Review and edit the draft manually before sending; this tool never sends email.
+- Confirm the recipient's correct title and last name.
+- confirm whether you want to propose specific meeting times
+- attach the requested file or keep the attachment placeholder
